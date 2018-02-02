@@ -1,0 +1,55 @@
+body {
+	max-width: 80%;
+}
+
+#container {
+	margin: 5%;
+}
+
+.cat-pic {
+	display: inline-block;
+	margin: 20px;
+}
+
+.cat-pic h2{
+	padding: 10px;
+	display: block;
+}
+
+.cat {
+	display: inline-block;
+}
+
+.cat-pic img{
+  height: 320px;
+	width: 480px;
+}
+
+.cat-list li {
+	display: inline-block;
+	text-decoration-style: none;
+	margin: 10px;
+	padding: 10px;
+	background-color: #F4A460;
+	color: #FFF;
+	border: 2px solid white;
+}
+
+.cat-list li:hover {
+	cursor: pointer;
+	border-color: #000;
+	background-color: brown;
+}
+
+.Got-Click {
+	border-color: #000;
+}
+
+button {
+	margin: 10px;
+}
+
+/* infrom apply */
+.inform {
+	margin: 10px;
+}
